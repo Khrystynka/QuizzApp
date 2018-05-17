@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="title">Anatomy quiz</string>
+
+    <string name="question1">1. How many bones has human body when it is fully grown?</string>
+    <string name="question1.1">206</string>
+    <string name="question1.2">306</string>
+    <string name="question1.3">50</string>
+    <string name="question1.4">468</string>
+
+    <string name="question2">2. What organ uses over a quarter of the oxygen used by the human body?</string>
+    <string name="question2.1">heart</string>
+    <string name="question2.2">liver</string>
+    <string name="question2.3">brain</string>
+    <string name="question2.4">kidney</string>
+
+    <string name="question3">3. What is the smallest bone in the human body?</string>
+    <string name="question3.1">phalanges</string>
+    <string name="question3.2">hyoid bone</string>
+    <string name="question3.3">staples bone</string>
+    <string name="question3.4">talus</string>
+
+    <string name="question4">4. How many times a day human heart beats?</string>
+    <string name="question4.1">around 100000 times</string>
+    <string name="question4.2">around 3600000 times</string>
+    <string name="question4.3">around 250 times </string>
+    <string name="question4.4">around 2000 times </string>
+
+    <string name="question5">5. The largest muscle in the human body is:</string>
+    <string name="question5.1">stampedius</string>
+    <string name="question5.2">buttock muscle</string>
+    <string name="question5.3">heart</string>
+    <string name="question5.4">soleus</string>
+
+    <string name="question6">6. Main bones of the scull are:</string>
+    <string name="question6.1">cranium</string>
+    <string name="question6.2">hyoid bone</string>
+    <string name="question6.3">mandible</string>
+    <string name="question6.4">maxilla</string>
+
+    <string name="question7">7. How many chambers has human heart?</string>
+    <string name="question7.hint">Integer number</string>
+</resources>
